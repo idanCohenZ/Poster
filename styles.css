@@ -1,0 +1,15 @@
+.navbar-back {
+  background-color: #2cb6cf;
+}
+.img-logo-container {
+  position: relative;
+  display: flex;
+}
+.img-logo {
+  width: 200px;
+}
+
+.sapir-logo {
+  position: absolute;
+  right: 0%;
+}
