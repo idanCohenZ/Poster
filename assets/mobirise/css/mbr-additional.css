@@ -828,6 +828,11 @@ a {
 .cid-tBnXVzq7UP .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-tBnXVzq7UP .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
+}
 .cid-tBnXVzq7UP .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1089,7 +1094,7 @@ a {
 .cid-tC3pz8Mmw8 {
   padding-top: 7rem;
   padding-bottom: 0rem;
-  background-color: #31e78e;
+  background-color: #31cbe7;
 }
 .cid-tC3pz8Mmw8 .mbr-fallback-image.disabled {
   display: none;
@@ -1178,7 +1183,7 @@ a {
 .cid-tC3pZSFlSs {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #31e78e;
+  background-color: #31cbe7;
 }
 .cid-tC3pZSFlSs .mbr-fallback-image.disabled {
   display: none;
@@ -1344,7 +1349,7 @@ a {
 .cid-tC3q3phMz2 {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #31e78e;
+  background-color: #31cbe7;
 }
 .cid-tC3q3phMz2 .mbr-fallback-image.disabled {
   display: none;
@@ -1371,7 +1376,7 @@ a {
 }
 .cid-tC3q3phMz2 .card-wrapper {
   border-radius: 4px;
-  background: #31e78e;
+  background: #31cbe7;
 }
 @media (max-width: 992px) {
   .cid-tC3q3phMz2 .card-wrapper {
@@ -1464,7 +1469,7 @@ a {
 .cid-tC3qpMJuuV {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background: #31e78e;
+  background: #31cbe7;
 }
 .cid-tC3qpMJuuV .mbr-fallback-image.disabled {
   display: none;
@@ -1486,7 +1491,7 @@ a {
   transform: translateY(-10px);
 }
 .cid-tC3qpMJuuV .card-wrap {
-  background: #6ec7f2;
+  background: #f4c658;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
@@ -1517,7 +1522,7 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #6592e6;
+  border: 2px solid #000000;
   transition: all 0.3s;
 }
 .cid-tC3qpMJuuV .social-row .soc-item .mbr-iconfont {
@@ -1525,11 +1530,11 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #6592e6;
+  color: #000000;
   font-size: 1.5rem;
 }
 .cid-tC3qpMJuuV .social-row .soc-item:hover {
-  background-color: #6592e6;
+  background-color: #000000;
 }
 .cid-tC3qpMJuuV .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
@@ -1748,6 +1753,11 @@ a {
 }
 .cid-tBnXVzq7UP .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-tBnXVzq7UP .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3rem);
+  }
 }
 .cid-tBnXVzq7UP .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
